@@ -1,3 +1,3 @@
 # Welcome to my GitHub Page
-This is my portfolio web page and link to my GitHub repositories. [**http://github.com/gcmatos/**](http://github.com/gcmatos/)
+This is my portfolio web page and link to my GitHub repositories. [**https://github.com/gcmatos**](https://github.com/gcmatos/)
 

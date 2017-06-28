@@ -3,6 +3,6 @@ layout: post
 title: Hello, World!
 ---
 
-Hi all, I'm a geologist, MSc., with 10 years of experience in Structural Geology applied to Naturally Fractured Reservoirs (NFR) in Petrobras' Reasearch Lab, where I coordinated R&D projects regarding natural fracture prediction basecally on pre-salt carbonate reservoirs. 
+Hi all, I'm Geologist, MSc., my expertise is basically Structural Geology applied to characterization and modeling of Naturally Fractured Reservoirs (NFR). 
 
-Since 2014, I've been into data science focusing in Exploratory Data Analysis (EDA) an Machine Learning using Matlab, Python and, recently in R. My goal is to improve and automate data analysis routines for decision-making and forecasting tasks such as natural fracture prediction.  
+Recently, I've been into data science applyied to geological problems. I've been focused on Machine Learning and Artificial Inteligence Python and R. My goal is to improve and automate data analysis routines for decision-making and forecasting tasks such as natural fracture prediction.   

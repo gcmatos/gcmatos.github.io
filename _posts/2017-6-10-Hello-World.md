@@ -3,6 +3,5 @@ layout: post
 title: Hello, World!
 ---
 
-Hi all, I'm Geologist, MSc., my expertise is basically Structural Geology applied to characterization and modeling of Naturally Fractured Reservoirs (NFR). 
-
-Recently, I'm into data science applied to geological problems. I've been focused on Machine Learning and Artificial Inteligence in Python and R. My goal is to improve and automate data analysis routines for decision-making and forecasting tasks such as natural fracture prediction.   
+Programming languages, even English based, are a sort of *lingua franca* in technology and science today. Computers help us solve old difficult problems in a more collaborative and faster way. Machines also are getting each time cheaper and more affordable worldwide, despite all inequalities of the modern and still globalized Planet Earth.
+...

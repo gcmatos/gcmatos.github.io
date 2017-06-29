@@ -10,6 +10,4 @@ My expertise is basically on Structural Geology applied to characterization and 
 
 Recently, I'm into data science applied to geological problems. I've been focused on Machine Learning and Artificial Inteligence in Python and R. My goal is to improve and automate data analysis routines for decision-making and forecasting tasks such as natural fracture prediction.  
 
-### Contact me
-
-[Gmail](mailto:gcmatos@gmail.com)
+### [Contact me](mailto:gcmatos@gmail.com)

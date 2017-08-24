@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Profile picture](/images/profile.jpg)
+![Profile picture](gcmatos.github.io/images/profile.jpg)
 
 Hi, I'm Gabriel Matos. I'm best known as Geologist, but I do a bunch of other things like take care of my twin daughters, photography, rock climbing and play flute.
 

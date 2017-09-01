@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Machine Learning for Fracture Prediction
+title: Machine Learning (ML) algorithms for fracture prediction
 ---
-
-Machine Learning technics can help geologists find new tools for simulating geometries distribution on rocks...
+How predictive analytics can help geoscientists finding complex geometric patterns of fractures distribution in rocks.
 ---

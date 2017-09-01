@@ -2,7 +2,7 @@
 layout: post
 title: Ecosystem of data science tools for geoscientists
 ---
-Open-source resources for applying data science on geoscience problems solving.
+#### Open-source resources for applying data science on geoscience problems solving.
 ---
 
 ![Ecosystem of tools](https://raw.githubusercontent.com/gcmatos/gcmatos.github.io/master/images/Intro.png)

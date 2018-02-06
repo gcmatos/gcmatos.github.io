@@ -12,11 +12,12 @@ In this article I will try to describe all the tools that I found useful in my d
 
 **Python** is the first and most basic tool. It's a multi-proposal progamming language created by Guido van Rossum (firt released in 1991) that is extensevely used by scientists, developers, software engineers and hackers.
   Useful links:
-- [wikipedia.org](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Python.org](https://www.python.org/)
 - [anaconda.com](https://www.anaconda.com/)
 
 **R** is the second tool in our list. It's a programming language specially designed for statistic analysis. You will find an extensive list of libraries that allow us to have access useful datasets and functions for data analysis in their repository [CRAN](https://cran.r-project.org/). R community also provide us with high level books, articles and tutorials.
   Useful links:
+  - [R Tutorial](https://www.statmethods.net/r-tutorial/index.html)
   - [R for Data Science](http://r4ds.had.co.nz/) Amazing book written by Garrett Grolemund and Hadley Wickham 
 
 ...

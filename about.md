@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Profile picture](https://raw.githubusercontent.com/gcmatos/gcmatos.github.io/master/images/profile.jpg)
+![Profile picture](https://raw.githubusercontent.com/gcmatos/gcmatos.github.io/master/images/profile.jpg){:height="50%" width="50%"}
 
 Hi, I'm Gabriel Matos. I'm best known as a Geologist, but I enjoy other activities like taking care of my twin daughters, photography, rock climbing and playing flute.
 

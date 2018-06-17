@@ -4,7 +4,7 @@ title: Ecosystem of data science tools for geoscientists
 ---
 #### Free and open-source softwares (FOSS) for data science
 
-![Ecosystem of tools](https://raw.githubusercontent.com/gcmatos/gcmatos.github.io/master/images/intro.png)
+![Ecosystem of tools](https://raw.githubusercontent.com/gcmatos/gcmatos.github.io/master/images/foss.png)
 
 Geologists deal with data provided from Earth through measuring devices (e.g. compass, GPS, cameras, etc.) and we are constantly facing highly complex physical features and sparse datasets that can make us feel stuck and hopeless. Commercial softwares also don't provide all the resources needed for problem solving. We have to process a broad range of types and sizes of structured and unstructured raw data.
 

@@ -16,6 +16,7 @@ In this article I will give a glimpse on some of the main tools that I find usef
 - [anaconda.com](https://www.anaconda.com/) which is a open-source platform for data science
 
 In Python you can type in a command line and hit return key without the need of compile the code to see the results as:
+
 ```python
 >>> # Python 3: Simple output example from python.org
 ... print("Hello, I'm Python!")

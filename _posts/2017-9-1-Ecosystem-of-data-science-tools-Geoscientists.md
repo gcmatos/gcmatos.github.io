@@ -21,7 +21,7 @@ In this article I will give a glimpse on some of the main tools that I find usef
 
 In Python you can type in a command line and hit return key without the need of compile the code to see the results as:
 
-{% gist de0be80f972868dca82a11b9d0912802 %}
+{% gist c1e007e4ba97ec6480f1fee98d75d015 %}
 
 You can find a diverse and extensive range of packages for Python at the Python Package Index website [pypi.org](https://pypi.org) that are useful for scientific and development tasks. There's a list below with the most popular Python packages for scientific computing, data exploration and machine learning:
 - [Scipy](https://scipy.org)
@@ -34,7 +34,7 @@ This is definitely the most popular tool for data exploration and modeling and y
 
 Jupyter notebooks allow us to write code and well formatted comments, provide us with a dynamic way of collaborating and sharing knowledge among the the community of scientists and software developers. Notebooks are built on iPython framework that flexible and can run different programming languages such as Python, R, Julia, C, Matlab, and many others. Each language is loaded as a kernel in the notebook.
 
-{% gist 9c762383a27c0aaaeb60a4d6508a22be %}
+{% gist de0be80f972868dca82a11b9d0912802 %}
 
 ## R programming language
 R is a programming language designed for statistics and scientific computing. You will find an extensive list of libraries that allow us to have access useful datasets and functions for data analysis in their repository [CRAN](https://cran.r-project.org/). R community also provide us with high level books, articles and tutorials.

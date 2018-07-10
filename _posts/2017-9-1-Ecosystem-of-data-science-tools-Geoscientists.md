@@ -21,7 +21,7 @@ In this article I will give a glimpse on some of the main tools that I find usef
 
 In Python you can type in a command line and hit return key without the need of compile the code to see the results as:
 
-{% gist c1e007e4ba97ec6480f1fee98d75d015 %}
+{% gist 9c762383a27c0aaaeb60a4d6508a22be %}
 
 You can find a diverse and extensive range of packages for Python at the Python Package Index website [pypi.org](https://pypi.org) that are useful for scientific and development tasks. There's a list below with the most popular Python packages for scientific computing, data exploration and machine learning:
 - [Scipy](https://scipy.org)

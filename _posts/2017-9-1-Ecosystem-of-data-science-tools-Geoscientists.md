@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ecosystem of data science tools for geologists
+title: Ecosystem of data tools for geologists
 ---
 #### Free and open-source softwares (FOSS) for data science
 
@@ -21,31 +21,18 @@ In this article I will give a glimpse on some of the main tools that I find usef
 
 In Python you can type in a command line and hit return key without the need of compile the code to see the results as:
 
-```python
->>> # Python 3: Simple output example from python.org
-... print("Hello, I'm Python!")
-Hello, I'm Python!
-```
-> In this code snippet above, the `>>>` is the first line of the interpreter prompt, `#` means it is a comment line, `...` means the prompt continues on the second line with the function `print()`, and the last line is the output from the interpreter. It is very simple and straight forward.
+{% gist c1e007e4ba97ec6480f1fee98d75d015 %}
 
-You can find a diverse and extensive range of packages for Python at [PyPi](), each one designed for scientific and development tasks. There's a list below with the most popular Python packages for scientific computing, data exploration and machine learning:
-- [Numpy]() / [Scipy]()
-- [Pandas]()
-- [Matplotlib]()
-- [Scikit-learn]()
+You can find a diverse and extensive range of packages for Python at the Python Package Index website [https://pypi.org](https://pypi.org) that are useful for scientific and development tasks. There's a list below with the most popular Python packages for scientific computing, data exploration and machine learning:
+- [Scipy](https://scipy.org)
+- [Pandas](https://pandas.pydata.org)
+- [Matplotlib](https://matplotlib.org)
+- [Scikit-learn](http://scikit-learn.org/stable/)
 
-Recommended syntax for importing those packages:
-```python
-import numpy as np
-import scipy as sp
-import pandas as pd
-import matplotlib as mpl
-import scikit-learn as sklearn
-```
 ### Jupyter notebooks
 This is definitely the most popular tool for data exploration and modeling. Jupyter notebooks allow us to write code and well formatted comments, provide us with a dynamic way of collaborating and sharing knowledge among the the community of scientists and software developers.
 
-Jupyter notebooks are built on iPython framework that flexible and can run different programming languages such as Python, R, Julia, C, Matlab, and many others. Each language is loaded as a kernel in the notebook. 
+Jupyter notebooks are built on iPython framework that flexible and can run different programming languages such as Python, R, Julia, C, Matlab, and many others. Each language is loaded as a kernel in the notebook.
 
 ### R programming language
 R is a programming language designed for statistics and scientific computing. You will find an extensive list of libraries that allow us to have access useful datasets and functions for data analysis in their repository [CRAN](https://cran.r-project.org/). R community also provide us with high level books, articles and tutorials.
